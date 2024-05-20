@@ -1,0 +1,2 @@
+preferenceNewsletter=false
+preferenceColor=#425384
